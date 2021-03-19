@@ -3,7 +3,7 @@ def vegetables():
     veg2 = input("Введите название второго овоща: ")
     veg3 = input("Введите название третьего овоща: ")
 
-    print(veg1.lower(), veg1.lower(), veg1.lower())
+    print(veg1.lower(), veg2.lower(), veg3.lower())
     print(veg1.upper(), veg2.upper(), veg3.upper())
     print(veg1.title(), veg2.title(), veg3.title())
 
