@@ -13,6 +13,7 @@ print('''
 'random' - рандомное число
 'factorial' - факториал числа
 'acos' - арккосинус
+'stop' - закончить работу программы
 ''')
 
 def plus(digit, digit2):
